@@ -44,4 +44,4 @@ Creators can publish weird things. Viewers can open them without turning the mai
 
 Vibecodr does not promise that code from the public web is safe. It does not promise that every third-party dependency is benign. It does not promise that user-authored code cannot fail, fingerprint a browser, or behave badly inside its own allowed sandbox.
 
-The promise is narrower and more important: the platform is designed so a creator's code does not automatically inherit the trust of Vibecodr itself.
+The promise is narrower and more important: Vibecodr is built to do everything in its power to let untrusted code be viewed, played with, and shared in a way that stays safe, contained, and meaningfully separated from the trust of the platform itself.
